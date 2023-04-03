@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536950178401",
+    "project_id": "hyperbeast-ai",
+    "storage_bucket": "hyperbeast-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536950178401:android:f2ecac327017366c9d6020",
+        "android_client_info": {
+          "package_name": "com.hyperbeast.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536950178401-pufr9t48jfjvfm904lc66otnfm4g65n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaGrooQmiIg6nlVaVqIbgtJHMaqV5wJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536950178401-pufr9t48jfjvfm904lc66otnfm4g65n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
